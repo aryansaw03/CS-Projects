@@ -1,0 +1,7 @@
+bugcrowd.com - companies to find vulnerabilities for
+hunter.io or phonebook.cz or clearbit connect - find emails for companies
+emailhippo.com - verify email
+dehashed.com - get leaked credentials
+hashes.org - search hashes
+crt.sh - find certificates that are registered to a domain
+builtwith.com - find which tech a website uses

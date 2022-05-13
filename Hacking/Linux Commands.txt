@@ -1,0 +1,35 @@
+Common Commands: 
+cd - change directory
+ls - list contents
+pwd - print current directory
+mv - move file
+cp - copy file
+mkdir - make a directory
+rmdir - remove a directory
+rm - remove a file
+locate - locate file or directory
+updatedb - updates database (must be done before locate in order to use most up-to-date information)
+sudo - execute command a root user
+su - switch user
+passwd - change password
+adduser - creates a new user
+man - manual for commands
+echo - display text or save to file with ' > filename.txt' or append to file with ' >> filename.txt'
+touch - creates new file
+nano - create and edit files with nano text editor
+grep - search for line in file
+cut - remove portions of a line
+tr - translate or delete characters
+cat - concatenate files and print output
+chmod - change privileges of
+apt get - install something
+apt update - update everything
+apt upgrade - upgrade everything
+
+Network Commands:
+ip a or ifconfig - displays information about network
+iwconfig - displays information about wireless network
+ping - attempts to communicate with a host
+ip n or arp - finds MAC address associated with ip address
+netstat - displays all network connections
+ip r or route - displays routing table
